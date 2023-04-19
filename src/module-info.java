@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ssred
+ *
+ */
+module javalearing {
+}
